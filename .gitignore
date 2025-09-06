@@ -1,0 +1,27 @@
+#
+.idea/
+.vscode/
+
+#
+__pycache__/
+*.py[cod]
+*$py.class
+
+#
+.venv/
+env/
+venv/
+ENV/
+
+#
+.env
+*.env
+
+# OS файлы
+.DS_Store
+Thumbs.db
+
+# Тесты/отчеты
+.coverage
+htmlcov/
+.pytest_cache/
