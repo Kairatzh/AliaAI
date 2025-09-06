@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain_community
+openai
+pydantic
+uvicorn
+fastapi
